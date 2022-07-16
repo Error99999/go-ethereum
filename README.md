@@ -61,6 +61,7 @@ Minimum:
 * 1TB free storage space to sync the Mainnet
 * 8 MBit/sec download Internet service
 
+
 Recommended:
 
 * Fast CPU with 4+ cores
